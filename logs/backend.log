@@ -1,0 +1,554 @@
+23.3.2021, 18:26:05 - INFO - Server is running on port: 3030 
+23.3.2021, 18:30:25 - INFO - Server is running on port: 3030 
+23.3.2021, 18:33:31 - INFO - Server is running on port: 3030 
+23.3.2021, 18:34:22 - INFO - Server is running on port: 3030 
+23.3.2021, 20:09:15 - INFO - Server is running on port: 3030 
+23.3.2021, 20:09:29 - INFO - Server is running on port: 3030 
+23.3.2021, 20:46:12 - ERROR - Failed to add tour | {} (sid: wc-lKs2yWEbxYgpEHuPoYqSk9EHUSojH)
+23.3.2021, 20:47:21 - INFO - Server is running on port: 3030 
+23.3.2021, 20:47:23 - ERROR - Failed to add tour | {} (sid: i0NhNgOHcRhbd9JGVdAEGRsjTIW3snkz)
+23.3.2021, 20:47:43 - INFO - Server is running on port: 3030 
+23.3.2021, 20:47:44 - ERROR - Failed to add tour | {} (sid: EUxp3EK9BrDNqaRzocV8bu-gf_M8WATX)
+23.3.2021, 20:47:50 - INFO - Server is running on port: 3030 
+23.3.2021, 20:48:12 - ERROR - Failed to add tour | {} (sid: HycYc_PJsOGGvvOXM4kxweHThP6nR2bC)
+23.3.2021, 20:48:37 - INFO - Server is running on port: 3030 
+23.3.2021, 20:49:24 - INFO - Server is running on port: 3030 
+23.3.2021, 20:49:31 - INFO - Server is running on port: 3030 
+24.3.2021, 8:56:06 - INFO - Server is running on port: 3030 
+24.3.2021, 9:02:05 - INFO - Server is running on port: 3030 
+24.3.2021, 9:48:41 - INFO - Server is running on port: 3030 
+24.3.2021, 12:53:47 - INFO - Server is running on port: 3030 
+24.3.2021, 12:58:07 - DEBUG - auth.service - signup with username: YoniB, fullname: Yoni Bar (sid: 5doUUdvf2OBxVe_JCkh9lbIq9apNzXtm)
+24.3.2021, 12:58:07 - DEBUG - auth.route - new account created: {"username":"YoniB","password":"$2b$10$TudSYS4EKqPUVwYQby7f9e.kntmX0toABWYLAGJEibPXsZgW/tI9u","fullname":"Yoni Bar","score":0,"_id":"605b1b3fb5ece1f2c5a2a8e7"} (sid: 5doUUdvf2OBxVe_JCkh9lbIq9apNzXtm)
+24.3.2021, 12:58:07 - DEBUG - auth.service - login with username: YoniB (sid: 5doUUdvf2OBxVe_JCkh9lbIq9apNzXtm)
+24.3.2021, 12:59:48 - DEBUG - auth.service - login with username: Chan1 (sid: 5doUUdvf2OBxVe_JCkh9lbIq9apNzXtm)
+24.3.2021, 12:59:48 - ERROR - Failed to Login Invalid username or password (sid: 5doUUdvf2OBxVe_JCkh9lbIq9apNzXtm)
+24.3.2021, 15:51:04 - DEBUG - auth.service - signup with username: ted, fullname: Ted Mosby (sid: 5doUUdvf2OBxVe_JCkh9lbIq9apNzXtm)
+24.3.2021, 15:51:05 - DEBUG - auth.route - new account created: {"username":"ted","password":"$2b$10$uoHOYyUZcNKE7N8xVO5BGOyIaqhhv7vrD.Mm3IBwVq.EdWJtLThCi","fullname":"Ted Mosby","score":0,"_id":"605b43c8b5ece1f2c5a2a8e8"} (sid: 5doUUdvf2OBxVe_JCkh9lbIq9apNzXtm)
+24.3.2021, 15:51:05 - DEBUG - auth.service - login with username: ted (sid: 5doUUdvf2OBxVe_JCkh9lbIq9apNzXtm)
+24.3.2021, 16:12:48 - INFO - Server is running on port: 3030 
+24.3.2021, 16:12:57 - DEBUG - auth.service - login with username: ted (sid: tTqgL--GWFYcVoodjaL0C34FMvPmqZ46)
+24.3.2021, 16:20:23 - ERROR - Failed to add tour | {} (sid: G35RQiAK_oZLw-uDmwObSsk_1AQ8gdFp)
+24.3.2021, 16:23:45 - INFO - Server is running on port: 3030 
+24.3.2021, 16:23:57 - DEBUG - auth.service - login with username: ted (sid: wP36mWBjckLBJPIl3xCcHFMJW3jr9W4c)
+24.3.2021, 16:26:37 - DEBUG - auth.service - login with username: ted (sid: wP36mWBjckLBJPIl3xCcHFMJW3jr9W4c)
+24.3.2021, 16:28:10 - INFO - Server is running on port: 3030 
+24.3.2021, 16:28:27 - DEBUG - auth.service - login with username: ted (sid: XjTCenEY3c21nVIuweG--Mack5_E-u2J)
+24.3.2021, 16:29:01 - ERROR - Failed to add tour | {} (sid: 7QeH45IyKi2MwB59-lxcdDZqKt68KtMK)
+24.3.2021, 16:29:29 - INFO - Server is running on port: 3030 
+24.3.2021, 16:30:07 - DEBUG - auth.service - login with username: ted (sid: LeuHWZQvbh8t6XWjtJNeKS0UGyNhKmns)
+24.3.2021, 16:37:49 - INFO - Server is running on port: 3030 
+24.3.2021, 16:38:14 - DEBUG - auth.service - login with username: ted (sid: gT2MJCLWxysIzmaLATkJYgupfUqEhNOz)
+24.3.2021, 16:47:56 - INFO - Server is running on port: 3030 
+24.3.2021, 16:47:59 - INFO - Server is running on port: 3030 
+24.3.2021, 16:57:05 - INFO - Server is running on port: 3030 
+24.3.2021, 17:15:24 - INFO - Server is running on port: 3030 
+24.3.2021, 17:15:48 - DEBUG - auth.service - login with username: ted (sid: tY-xR7K8LuH_hqib9mpe4yLOEjrZOfk7)
+24.3.2021, 17:16:07 - INFO - Server is running on port: 3030 
+24.3.2021, 17:19:45 - INFO - Server is running on port: 3030 
+24.3.2021, 17:20:10 - INFO - Server is running on port: 3030 
+24.3.2021, 17:20:31 - DEBUG - auth.service - login with username: ted (sid: l7KWBkBPZlIp8AopxYOxereQ-ssBRH4A)
+24.3.2021, 17:21:36 - INFO - Server is running on port: 3030 
+24.3.2021, 17:37:50 - DEBUG - auth.service - login with username: ted (sid: gOg1oSsVwaManBvAV-ZX_DymLMXQAmUX)
+24.3.2021, 17:43:58 - DEBUG - auth.service - login with username: ted (sid: DRqN2ujzTBhlHLJod7uarzKaNL_mq7z4)
+24.3.2021, 17:50:36 - DEBUG - auth.service - login with username: ted (sid: DRqN2ujzTBhlHLJod7uarzKaNL_mq7z4)
+24.3.2021, 17:51:28 - DEBUG - auth.service - login with username: ted (sid: DRqN2ujzTBhlHLJod7uarzKaNL_mq7z4)
+24.3.2021, 17:57:06 - INFO - Server is running on port: 3030 
+24.3.2021, 17:58:55 - INFO - Server is running on port: 3030 
+24.3.2021, 18:01:31 - INFO - Server is running on port: 3030 
+24.3.2021, 18:01:58 - DEBUG - auth.service - login with username: ted (sid: haOzquWGQy5ZK1NtBB1wIZIGUZbOQx3F)
+24.3.2021, 18:02:47 - INFO - Server is running on port: 3030 
+24.3.2021, 18:02:58 - DEBUG - auth.service - login with username: ted (sid: 9GSV8Fup1Zk8YwQuysFkYHMU0LESkNQa)
+24.3.2021, 18:03:21 - INFO - Server is running on port: 3030 
+24.3.2021, 18:03:51 - DEBUG - auth.service - login with username: yoni (sid: WUx9oRh8bq_chpIK5TbEMiOGo2iMzmln)
+24.3.2021, 18:03:51 - ERROR - Failed to Login Invalid username or password (sid: WUx9oRh8bq_chpIK5TbEMiOGo2iMzmln)
+24.3.2021, 18:04:24 - DEBUG - auth.service - login with username: ted (sid: WUx9oRh8bq_chpIK5TbEMiOGo2iMzmln)
+24.3.2021, 18:05:04 - INFO - Server is running on port: 3030 
+24.3.2021, 18:05:15 - DEBUG - auth.service - login with username: ted (sid: wDjkVtEaeea8v2CvLl0g_0afnaYeyUnE)
+24.3.2021, 18:05:32 - INFO - Server is running on port: 3030 
+24.3.2021, 18:06:05 - DEBUG - auth.service - login with username: ted (sid: bMNdqwH_7m52z-SihQVCGuql8a9fMzhJ)
+24.3.2021, 18:06:24 - INFO - Server is running on port: 3030 
+24.3.2021, 18:06:43 - DEBUG - auth.service - login with username: ted (sid: Qlr6JNZx6uK4roggLvxhqDc4QVqVoCtv)
+24.3.2021, 18:07:51 - DEBUG - auth.service - login with username: yoni (sid: Qlr6JNZx6uK4roggLvxhqDc4QVqVoCtv)
+24.3.2021, 18:07:51 - ERROR - Failed to Login Invalid username or password (sid: Qlr6JNZx6uK4roggLvxhqDc4QVqVoCtv)
+24.3.2021, 18:14:44 - DEBUG - auth.service - login with username: ted (sid: Qlr6JNZx6uK4roggLvxhqDc4QVqVoCtv)
+24.3.2021, 18:16:55 - DEBUG - auth.service - login with username: ted (sid: Qlr6JNZx6uK4roggLvxhqDc4QVqVoCtv)
+24.3.2021, 18:17:13 - INFO - Server is running on port: 3030 
+24.3.2021, 18:17:22 - DEBUG - auth.service - login with username: ted (sid: -B1_efw5m3ISNU-Qi_92ngAewq2yLpQe)
+24.3.2021, 18:19:30 - DEBUG - auth.service - login with username: ted (sid: -B1_efw5m3ISNU-Qi_92ngAewq2yLpQe)
+24.3.2021, 18:21:34 - DEBUG - auth.service - login with username: ted (sid: -B1_efw5m3ISNU-Qi_92ngAewq2yLpQe)
+24.3.2021, 18:28:03 - DEBUG - auth.service - login with username: ted (sid: -B1_efw5m3ISNU-Qi_92ngAewq2yLpQe)
+24.3.2021, 18:33:50 - INFO - Server is running on port: 3030 
+24.3.2021, 18:40:49 - DEBUG - auth.service - login with username: ted (sid: m4poOSiNb9pdD03PW7YTG92RRF3PU3GT)
+24.3.2021, 18:41:32 - DEBUG - auth.service - login with username: ted (sid: m4poOSiNb9pdD03PW7YTG92RRF3PU3GT)
+24.3.2021, 18:42:51 - INFO - Server is running on port: 3030 
+24.3.2021, 18:43:55 - ERROR - Failed to get user | {} (sid: x8tTZGJbW6f-55ZPRc8MC2mO0ERdxKTj)
+24.3.2021, 18:45:42 - ERROR - Failed to get user | {} (sid: Wqa4LPNZXoCuheDv-W4WbuT4pv3RK0JM)
+24.3.2021, 18:45:42 - ERROR - Failed to get user | {} (sid: Wqa4LPNZXoCuheDv-W4WbuT4pv3RK0JM)
+24.3.2021, 18:46:02 - ERROR - Failed to get user | {} (sid: Wqa4LPNZXoCuheDv-W4WbuT4pv3RK0JM)
+24.3.2021, 18:46:02 - ERROR - Failed to get user | {} (sid: Wqa4LPNZXoCuheDv-W4WbuT4pv3RK0JM)
+24.3.2021, 18:46:17 - ERROR - Failed to get user | {} (sid: Wqa4LPNZXoCuheDv-W4WbuT4pv3RK0JM)
+24.3.2021, 18:46:22 - ERROR - Failed to get user | {} (sid: Wqa4LPNZXoCuheDv-W4WbuT4pv3RK0JM)
+24.3.2021, 18:46:41 - INFO - Server is running on port: 3030 
+24.3.2021, 18:46:48 - INFO - Server is running on port: 3030 
+24.3.2021, 18:48:25 - DEBUG - auth.service - login with username: ted (sid: 2zxnS0bO7P6bOFl1rhhDyzmuAMP15qGX)
+24.3.2021, 18:48:49 - INFO - Server is running on port: 3030 
+24.3.2021, 18:49:02 - DEBUG - auth.service - login with username: ted (sid: Q3p8fXEpy2Y0p9Xq5Yh1u2Z6o_0NzUo2)
+24.3.2021, 18:49:23 - INFO - Server is running on port: 3030 
+24.3.2021, 18:49:31 - DEBUG - auth.service - login with username: ted (sid: EnFUdMF0kAlInJPCSkqrbGgX5BlWEPFq)
+24.3.2021, 18:52:29 - DEBUG - auth.service - login with username: ted (sid: EnFUdMF0kAlInJPCSkqrbGgX5BlWEPFq)
+24.3.2021, 18:57:11 - DEBUG - auth.service - login with username: ted (sid: EnFUdMF0kAlInJPCSkqrbGgX5BlWEPFq)
+24.3.2021, 18:57:56 - DEBUG - auth.service - login with username: ted (sid: EnFUdMF0kAlInJPCSkqrbGgX5BlWEPFq)
+24.3.2021, 18:58:31 - DEBUG - auth.service - login with username: ted (sid: EnFUdMF0kAlInJPCSkqrbGgX5BlWEPFq)
+24.3.2021, 19:09:21 - DEBUG - auth.service - login with username: ted (sid: EnFUdMF0kAlInJPCSkqrbGgX5BlWEPFq)
+24.3.2021, 19:11:45 - INFO - Server is running on port: 3030 
+24.3.2021, 19:14:57 - DEBUG - auth.service - login with username: ted (sid: 7L0RBkphtC8BkZFCBN4PbKScOaLM1YaI)
+24.3.2021, 19:20:13 - DEBUG - auth.service - login with username: ted (sid: Rr9NlPFrsOcJsq2IT4JRsCTN6B_LekDg)
+24.3.2021, 19:20:44 - DEBUG - auth.service - login with username: ted (sid: Ar60-wiIrStUVlsH6ux9bMTYyzmXPr3P)
+24.3.2021, 19:21:16 - DEBUG - auth.service - login with username: ted (sid: mOUUzlCpqy5jVlaQiGj6X7KuW_2MeMKV)
+24.3.2021, 19:21:41 - DEBUG - auth.service - login with username: ted (sid: 0tvzFtkS_Abjl_DDAMtlalfD8UR26YYZ)
+24.3.2021, 19:42:05 - INFO - Server is running on port: 3030 
+24.3.2021, 19:43:49 - DEBUG - auth.service - login with username: ted (sid: qDHuhbf1k5oCx2X6TwZuMd6ffMZPuW74)
+24.3.2021, 23:46:04 - DEBUG - auth.service - login with username: ted (sid: GQ1DhuM0MOnydH6WPCtBQ9Gpk0QuYq_x)
+24.3.2021, 23:50:37 - ERROR - Failed to get user | {} (sid: iU-PeL3HaLSBLdqKZz1yTZ6YVrdAUBhV)
+25.3.2021, 0:09:23 - DEBUG - auth.service - login with username: ted (sid: KSLpxun8148gmg1eGZmJT-AF1RFHFSSD)
+25.3.2021, 0:20:15 - DEBUG - auth.service - login with username: ted (sid: ftNAZVk-6xgXQrX5NpKKkfkNOhcdJ01h)
+25.3.2021, 0:24:54 - INFO - Server is running on port: 3030 
+25.3.2021, 0:25:05 - INFO - Server is running on port: 3030 
+25.3.2021, 0:25:27 - DEBUG - auth.service - login with username: ted (sid: wQd3WVltedLiDDFuAHJhixlT1VKD16z9)
+25.3.2021, 0:25:54 - INFO - Server is running on port: 3030 
+25.3.2021, 0:25:59 - INFO - Server is running on port: 3030 
+25.3.2021, 0:29:11 - INFO - Server is running on port: 3030 
+25.3.2021, 0:29:17 - INFO - Server is running on port: 3030 
+25.3.2021, 0:29:28 - INFO - Server is running on port: 3030 
+25.3.2021, 0:30:16 - ERROR - Failed to add order | {} (sid: B8zfIWyz2J-CQftqCnwSdiKaI2tiUFTZ)
+25.3.2021, 0:31:30 - INFO - Server is running on port: 3030 
+25.3.2021, 0:31:33 - ERROR - Failed to add order | {} (sid: Hpu60-7X-meSh7eruHZrpXtw_g2hDUIb)
+25.3.2021, 0:32:00 - DEBUG - auth.service - login with username: ted (sid: Q-fI6lxo4e_y4F5dHb0jKkdeUzpZ5eMj)
+25.3.2021, 0:32:20 - ERROR - Failed to add order | {} (sid: f4w5X9aFmrHcR2ZieG4rsnOaWAWdN0uv)
+25.3.2021, 0:32:59 - INFO - Server is running on port: 3030 
+25.3.2021, 0:33:01 - ERROR - Failed to add order | {} (sid: d_n3Zv853OAOlUdrTtF9bHvKz8ShX49j)
+25.3.2021, 0:33:24 - INFO - Server is running on port: 3030 
+25.3.2021, 0:33:26 - ERROR - Failed to add order | {} (sid: i457t_9FH0_aqkPc9WE4vyejeIXFs-5v)
+25.3.2021, 0:33:36 - INFO - Server is running on port: 3030 
+25.3.2021, 0:34:42 - INFO - Server is running on port: 3030 
+25.3.2021, 9:06:07 - DEBUG - auth.service - login with username: ted (sid: ER2v5LPhYYNex_82FTgLDEY7xUo3omXS)
+25.3.2021, 9:06:41 - DEBUG - auth.service - login with username: ted (sid: gpla7N6oLj5LzmBFIMpPggan3TA1NJm5)
+25.3.2021, 9:13:14 - INFO - Server is running on port: 3030 
+25.3.2021, 9:18:24 - INFO - Server is running on port: 3030 
+25.3.2021, 11:01:16 - DEBUG - auth.service - login with username: ted (sid: WOF0SBK76GIWta-Jw_PjTK1mkNWNVcvR)
+25.3.2021, 12:07:07 - INFO - Server is running on port: 3030 
+25.3.2021, 12:18:55 - DEBUG - auth.service - login with username: ted (sid: uovSr_kyuqRocJqjyd31HC7krO9lTb1U)
+25.3.2021, 12:18:55 - ERROR - Failed to Login Invalid username or password (sid: uovSr_kyuqRocJqjyd31HC7krO9lTb1U)
+25.3.2021, 12:19:27 - DEBUG - auth.service - login with username: ted (sid: uovSr_kyuqRocJqjyd31HC7krO9lTb1U)
+25.3.2021, 13:58:58 - DEBUG - auth.service - login with username: Brooke16 (sid: uovSr_kyuqRocJqjyd31HC7krO9lTb1U)
+25.3.2021, 14:58:04 - INFO - Server is running on port: 3030 
+25.3.2021, 15:11:37 - INFO - Server is running on port: 3030 
+25.3.2021, 15:11:45 - INFO - Server is running on port: 3030 
+25.3.2021, 15:11:46 - INFO - Server is running on port: 3030 
+25.3.2021, 15:20:59 - DEBUG - auth.service - login with username: ted (sid: xHGGtwRJCOe541d1_8xPyWQOqOGi1Q2F)
+25.3.2021, 15:43:56 - DEBUG - auth.service - login with username: Rene16 (sid: xHGGtwRJCOe541d1_8xPyWQOqOGi1Q2F)
+25.3.2021, 15:43:57 - ERROR - Failed to Login Invalid username or password (sid: xHGGtwRJCOe541d1_8xPyWQOqOGi1Q2F)
+25.3.2021, 15:44:10 - DEBUG - auth.service - login with username: Rene16 (sid: xHGGtwRJCOe541d1_8xPyWQOqOGi1Q2F)
+25.3.2021, 15:49:36 - DEBUG - auth.service - login with username: ted (sid: OAJYprpsPwQc1Jg4CZpaPRb6OG_Z7m6s)
+25.3.2021, 15:51:05 - INFO - Server is running on port: 3030 
+25.3.2021, 15:58:05 - INFO - Server is running on port: 3030 
+25.3.2021, 16:03:07 - INFO - Server is running on port: 3030 
+25.3.2021, 16:12:55 - INFO - Server is running on port: 3030 
+25.3.2021, 16:31:21 - INFO - Server is running on port: 3030 
+25.3.2021, 17:14:00 - DEBUG - auth.service - login with username: Andre26 (sid: -buwf5Etj6UJZYOAVjZ3wIoBx5TB5JaO)
+25.3.2021, 17:21:40 - DEBUG - auth.service - login with username: Andre26 (sid: gZ6dL52v4lvuKoMkfBf5YtqyHkvsS5zT)
+25.3.2021, 17:24:17 - DEBUG - auth.service - login with username: Krystal22 (sid: Y2M-VPTW97eoJTXXAa83DA1rFTAqg-Jx)
+25.3.2021, 17:35:10 - DEBUG - auth.service - login with username: Esteban16 (sid: L_fxu9Fc_dZxzXhs-5lSTBmWR9iUHyP5)
+25.3.2021, 17:39:59 - DEBUG - auth.service - login with username: Esteban16 (sid: L_fxu9Fc_dZxzXhs-5lSTBmWR9iUHyP5)
+25.3.2021, 19:02:59 - DEBUG - auth.service - login with username: Brooke16 (sid: L_fxu9Fc_dZxzXhs-5lSTBmWR9iUHyP5)
+25.3.2021, 20:44:08 - INFO - Server is running on port: 3030 
+25.3.2021, 22:41:16 - ERROR - Failed to add tour | {} (sid: z8DVjloobRFDRGz9oVzlKbkR1HFceoK3)
+25.3.2021, 22:41:51 - DEBUG - auth.service - login with username: ted (sid: pUkRQixvivXXmargrhUFnc2IYYGVINTC)
+25.3.2021, 23:07:15 - INFO - Server is running on port: 3030 
+25.3.2021, 23:08:16 - INFO - Server is running on port: 3030 
+25.3.2021, 23:08:49 - DEBUG - auth.service - login with username: ted (sid: E6-eJrjToLx4m_wNQqxAK0OslFDs_YBZ)
+25.3.2021, 23:13:10 - INFO - Server is running on port: 3030 
+25.3.2021, 23:13:25 - INFO - Server is running on port: 3030 
+25.3.2021, 23:29:39 - INFO - Server is running on port: 3030 
+25.3.2021, 23:30:19 - INFO - Server is running on port: 3030 
+25.3.2021, 23:30:56 - INFO - Server is running on port: 3030 
+25.3.2021, 23:31:09 - INFO - Server is running on port: 3030 
+25.3.2021, 23:31:21 - DEBUG - auth.service - login with username: ted (sid: qIh2gY1AnYmWp_5lqJftZwmai9UrTbXY)
+26.3.2021, 0:30:59 - DEBUG - auth.service - login with username: ted (sid: UcYA_iFx6YbZP7_TFezvm1KkAFRcowwI)
+26.3.2021, 0:45:14 - INFO - Server is running on port: 3030 
+26.3.2021, 0:45:22 - INFO - Server is running on port: 3030 
+26.3.2021, 0:45:22 - INFO - Server is running on port: 3030 
+26.3.2021, 11:34:08 - DEBUG - auth.service - login with username: ted (sid: 2NHxTP0u4Uce4pxiTHxhrZMdcwoO6AuX)
+26.3.2021, 11:40:59 - DEBUG - auth.service - signup with username: shlomo, fullname: Shlomo Sherf (sid: LT5LPCufGO2DmFi6HENWnIdZ6OawtzsF)
+26.3.2021, 11:40:59 - DEBUG - auth.route - new account created: {"username":"shlomo","password":"$2b$10$Zmo39tEeAJIunWTt0QDJz.PwG6IlAof2m2h2mIOOXYLdDB.kevpoC","fullname":"Shlomo Sherf","imgUrl":"../assets/img/default-profile.png","createdAt":1616748059594,"_id":"605d9e1bc09d2b4215c6ca11"} (sid: LT5LPCufGO2DmFi6HENWnIdZ6OawtzsF)
+26.3.2021, 11:40:59 - DEBUG - auth.service - login with username: shlomo (sid: LT5LPCufGO2DmFi6HENWnIdZ6OawtzsF)
+26.3.2021, 11:41:07 - DEBUG - auth.service - login with username: shlomo (sid: LT5LPCufGO2DmFi6HENWnIdZ6OawtzsF)
+26.3.2021, 11:45:49 - DEBUG - auth.service - signup with username: yoel, fullname: Yoel Geva (sid: 6XFzjZEqWSe2EBRTGM8OKhUYaOVB7bAh)
+26.3.2021, 11:45:49 - DEBUG - auth.route - new account created: {"username":"yoel","password":"$2b$10$gvS.zL/OJ8Xf.5MtclN7meCMqkpjgA3cYlG/mr.S2DXPNXWpaWgnq","fullname":"Yoel Geva","imgUrl":"https://res.cloudinary.com/yonibar/image/upload/v1616747547/default-profile_gmmqxp.png","createdAt":1616748349765,"_id":"605d9f3dc09d2b4215c6ca12"} (sid: 6XFzjZEqWSe2EBRTGM8OKhUYaOVB7bAh)
+26.3.2021, 11:45:49 - DEBUG - auth.service - login with username: yoel (sid: 6XFzjZEqWSe2EBRTGM8OKhUYaOVB7bAh)
+26.3.2021, 11:45:59 - DEBUG - auth.service - login with username: yoel (sid: 6XFzjZEqWSe2EBRTGM8OKhUYaOVB7bAh)
+26.3.2021, 12:19:29 - DEBUG - auth.service - login with username: ted (sid: Di5Q112SbwsOT1Sgmt8I3P5bW0-FQHjz)
+26.3.2021, 12:35:32 - DEBUG - auth.service - login with username: Brooke16 (sid: Di5Q112SbwsOT1Sgmt8I3P5bW0-FQHjz)
+26.3.2021, 13:11:08 - DEBUG - auth.service - login with username: Brooke16 (sid: Di5Q112SbwsOT1Sgmt8I3P5bW0-FQHjz)
+26.3.2021, 14:49:26 - DEBUG - auth.service - login with username: Brooke16 (sid: Di5Q112SbwsOT1Sgmt8I3P5bW0-FQHjz)
+26.3.2021, 14:49:38 - DEBUG - auth.service - login with username: ted (sid: Di5Q112SbwsOT1Sgmt8I3P5bW0-FQHjz)
+26.3.2021, 17:52:16 - DEBUG - auth.service - login with username: ted (sid: NgxA1g0CJKHk-ADRXRfjoM-yDXw41a_m)
+26.3.2021, 18:06:20 - DEBUG - auth.service - login with username: Brooke16 (sid: NgxA1g0CJKHk-ADRXRfjoM-yDXw41a_m)
+26.3.2021, 18:19:12 - DEBUG - auth.service - login with username: ted (sid: RatdVuoWF36kuPBLpWbSz-NYqQUAjlgX)
+26.3.2021, 21:07:09 - DEBUG - auth.service - login with username: ted (sid: RatdVuoWF36kuPBLpWbSz-NYqQUAjlgX)
+26.3.2021, 21:36:18 - DEBUG - auth.service - login with username: ted (sid: CsptJhNiP16jhDy3m97ecRe9urfF3yBR)
+26.3.2021, 22:03:48 - INFO - Server is running on port: 3030 
+26.3.2021, 22:04:02 - INFO - Server is running on port: 3030 
+26.3.2021, 22:11:59 - INFO - Server is running on port: 3030 
+26.3.2021, 22:12:04 - INFO - Server is running on port: 3030 
+26.3.2021, 22:12:19 - INFO - Server is running on port: 3030 
+26.3.2021, 22:12:52 - INFO - Server is running on port: 3030 
+26.3.2021, 22:27:57 - DEBUG - auth.service - signup with username: yoni, fullname: Yoni Bar (sid: xOWU9y0MpeBP1lNKN7K7Dzsrkg8_7Le4)
+26.3.2021, 22:27:57 - DEBUG - auth.route - new account created: {"username":"yoni","password":"$2b$10$TdsnjoKROi5rpuDMUIIQr.xClYM4FDSvuMYDEX1kMYqy5oMi1e576","fullname":"Yoni Bar","imgUrl":"http://res.cloudinary.com/yonibar/image/upload/v1616786874/yoni_dd5rja.png","createdAt":1616786877662,"_id":"605e35bd9995b0759aec4658"} (sid: xOWU9y0MpeBP1lNKN7K7Dzsrkg8_7Le4)
+26.3.2021, 22:27:57 - DEBUG - auth.service - login with username: yoni (sid: xOWU9y0MpeBP1lNKN7K7Dzsrkg8_7Le4)
+26.3.2021, 22:28:05 - DEBUG - auth.service - login with username: yoni (sid: xOWU9y0MpeBP1lNKN7K7Dzsrkg8_7Le4)
+26.3.2021, 22:28:53 - DEBUG - auth.service - login with username: ted (sid: K2M9Xu9djKkC5UBg68lHMKhMEAo5hW_S)
+27.3.2021, 10:16:16 - DEBUG - auth.service - login with username: yoni (sid: hyWGk1HXp7Q2hQr1ce5a9rn7zKIbUucN)
+27.3.2021, 10:31:40 - INFO - Server is running on port: 3030 
+27.3.2021, 10:31:41 - INFO - Server is running on port: 3030 
+27.3.2021, 10:42:11 - DEBUG - auth.service - login with username: ted (sid: LLwdQJpocrhPFDAifVEzoL0doq7DX4Es)
+27.3.2021, 10:51:32 - DEBUG - auth.service - login with username: yoni (sid: frmyebCJ8iwM02hXFuUA2NMkKB7nFcX_)
+27.3.2021, 11:04:01 - DEBUG - auth.service - login with username: yoni (sid: 8D0RmPBrpaTir3HnLSJJfktVAd5c23sn)
+27.3.2021, 11:34:59 - INFO - Server is running on port: 3030 
+27.3.2021, 11:36:07 - INFO - Server is running on port: 3030 
+27.3.2021, 11:36:14 - INFO - Server is running on port: 3030 
+27.3.2021, 11:37:22 - INFO - Server is running on port: 3030 
+27.3.2021, 11:40:12 - DEBUG - auth.service - login with username: Brooke16 (sid: QomQK1_bUFBWFEb2GACWbIYcR_LR6KF4)
+27.3.2021, 11:48:39 - INFO - Server is running on port: 3030 
+27.3.2021, 12:01:23 - DEBUG - auth.service - login with username: yoni (sid: lsimvoRvWVSXRp72b-xL5hLG2YwyG2Xk)
+27.3.2021, 12:32:09 - DEBUG - auth.service - login with username: Andre26 (sid: PTE-zNX9khF7aSEXGEvECt1rJdXsngRG)
+27.3.2021, 12:32:55 - DEBUG - auth.service - login with username: yoni (sid: -6xuePYFH5G0O6OpTnOW2vvHy3LzLSN9)
+27.3.2021, 13:31:22 - INFO - Server is running on port: 3030 
+27.3.2021, 13:31:59 - INFO - Server is running on port: 3030 
+27.3.2021, 13:32:10 - INFO - Server is running on port: 3030 
+27.3.2021, 13:35:34 - INFO - Server is running on port: 3030 
+27.3.2021, 13:35:50 - INFO - Server is running on port: 3030 
+27.3.2021, 13:40:39 - INFO - Server is running on port: 3030 
+27.3.2021, 13:44:28 - INFO - Server is running on port: 3030 
+27.3.2021, 13:44:34 - INFO - Server is running on port: 3030 
+27.3.2021, 13:48:07 - INFO - Server is running on port: 3030 
+27.3.2021, 14:41:17 - INFO - Server is running on port: 3030 
+27.3.2021, 14:41:37 - INFO - Server is running on port: 3030 
+27.3.2021, 14:42:30 - INFO - Server is running on port: 3030 
+27.3.2021, 14:43:52 - DEBUG - auth.service - login with username: ted (sid: JaAC1NjKJuGlceO-5vcfpG1T6xJjOZ6U)
+27.3.2021, 14:51:06 - INFO - Server is running on port: 3030 
+27.3.2021, 14:55:26 - INFO - Server is running on port: 3030 
+27.3.2021, 14:55:56 - INFO - Server is running on port: 3030 
+27.3.2021, 14:56:19 - INFO - Server is running on port: 3030 
+27.3.2021, 14:58:59 - INFO - Server is running on port: 3030 
+27.3.2021, 15:00:11 - INFO - Server is running on port: 3030 
+27.3.2021, 15:00:57 - INFO - Server is running on port: 3030 
+27.3.2021, 15:01:16 - INFO - Server is running on port: 3030 
+27.3.2021, 15:01:43 - INFO - Server is running on port: 3030 
+27.3.2021, 15:05:30 - INFO - Server is running on port: 3030 
+27.3.2021, 15:06:21 - INFO - Server is running on port: 3030 
+27.3.2021, 15:07:33 - INFO - Server is running on port: 3030 
+27.3.2021, 15:11:37 - INFO - Server is running on port: 3030 
+27.3.2021, 15:15:06 - INFO - Server is running on port: 3030 
+27.3.2021, 15:15:47 - INFO - Server is running on port: 3030 
+27.3.2021, 15:15:53 - INFO - Server is running on port: 3030 
+28.3.2021, 13:02:02 - INFO - Server is running on port: 3030 
+28.3.2021, 13:02:27 - INFO - Server is running on port: 3030 
+28.3.2021, 13:08:17 - INFO - Server is running on port: 3030 
+28.3.2021, 13:47:14 - INFO - Server is running on port: 3030 
+28.3.2021, 13:48:07 - INFO - Server is running on port: 3030 
+28.3.2021, 14:25:11 - INFO - Server is running on port: 3030 
+28.3.2021, 14:25:22 - INFO - Server is running on port: 3030 
+28.3.2021, 14:47:29 - INFO - Server is running on port: 3030 
+28.3.2021, 15:15:24 - INFO - Server is running on port: 3030 
+28.3.2021, 15:15:26 - INFO - Server is running on port: 3030 
+28.3.2021, 18:43:37 - INFO - Server is running on port: 3030 
+28.3.2021, 18:44:00 - INFO - Server is running on port: 3030 
+28.3.2021, 18:48:03 - INFO - Server is running on port: 3030 
+28.3.2021, 18:50:50 - INFO - Server is running on port: 3030 
+28.3.2021, 18:52:56 - DEBUG - auth.service - login with username: yoni (sid: iqK0HP5ed22olWpSxUrRTa9zP2nYNeev)
+28.3.2021, 18:55:15 - DEBUG - auth.service - login with username: Brooke16 (sid: iqK0HP5ed22olWpSxUrRTa9zP2nYNeev)
+28.3.2021, 19:07:23 - DEBUG - auth.service - login with username: yoni (sid: -lIBpr7-qNJv-p58hikdJxXYrkeaQRbh)
+28.3.2021, 19:07:32 - DEBUG - auth.service - login with username: Brooke16 (sid: -lIBpr7-qNJv-p58hikdJxXYrkeaQRbh)
+28.3.2021, 19:33:39 - INFO - Server is running on port: 3030 
+28.3.2021, 19:45:49 - DEBUG - auth.service - login with username: ted (sid: TpRM4lY4bsL3CXtQ_zcsbWrKzrXzaDDZ)
+28.3.2021, 19:46:42 - DEBUG - auth.service - login with username: ted (sid: TpRM4lY4bsL3CXtQ_zcsbWrKzrXzaDDZ)
+28.3.2021, 19:47:04 - DEBUG - auth.service - login with username: Andre26 (sid: TpRM4lY4bsL3CXtQ_zcsbWrKzrXzaDDZ)
+28.3.2021, 19:49:33 - INFO - Server is running on port: 3030 
+28.3.2021, 19:58:09 - DEBUG - auth.service - login with username: ted (sid: 7RHX2yVErdIXHWmt6wvmrqFwdH4QEUvo)
+28.3.2021, 19:58:39 - DEBUG - auth.service - login with username: lotan1 (sid: HKFAODG3Sb6JLWQ7syNTTlqG1CR2p08I)
+28.3.2021, 20:02:23 - INFO - Server is running on port: 3030 
+28.3.2021, 20:02:59 - DEBUG - auth.service - login with username: ted (sid: HQAXHajfkEgUP6e_qFokV0ZFg26H_9Ta)
+28.3.2021, 20:03:17 - DEBUG - auth.service - login with username: lotan1 (sid: 6Xe8Um0166SKaDJetVe97mvUiw35HisK)
+28.3.2021, 20:06:53 - DEBUG - auth.service - login with username: ted (sid: 88DJ09oRhQC-Aha2c3UeTxr2z44Oi51J)
+28.3.2021, 20:19:17 - INFO - Server is running on port: 3030 
+28.3.2021, 20:22:25 - INFO - Server is running on port: 3030 
+28.3.2021, 20:23:10 - INFO - Server is running on port: 3030 
+28.3.2021, 20:24:58 - DEBUG - auth.service - login with username: yoni (sid: Z_bjVkyRK37FBYuF3fSsDnTNnc7OsdJT)
+28.3.2021, 20:24:58 - ERROR - Failed to Login Invalid username or password (sid: Z_bjVkyRK37FBYuF3fSsDnTNnc7OsdJT)
+28.3.2021, 20:25:17 - DEBUG - auth.service - login with username: yoni (sid: Z_bjVkyRK37FBYuF3fSsDnTNnc7OsdJT)
+28.3.2021, 22:42:58 - INFO - Server is running on port: 3030 
+28.3.2021, 22:43:50 - DEBUG - Session ID is | QTqgHeujIAxmwtb2ozoNfsN5O_73i8kQ 
+28.3.2021, 22:47:39 - INFO - Server is running on port: 3030 
+28.3.2021, 22:49:07 - DEBUG - Session ID is | xEHfjj04S2E-bXiRceknkqe-MxsvbNm7 
+28.3.2021, 22:50:29 - DEBUG - Session ID is | bNTzSkAFgsIHEv_ri9iI2VRc9lex8-tM 
+28.3.2021, 22:50:43 - DEBUG - Session ID is | bNTzSkAFgsIHEv_ri9iI2VRc9lex8-tM 
+28.3.2021, 22:51:04 - INFO - Server is running on port: 3030 
+28.3.2021, 22:51:18 - DEBUG - Session ID is | 2U73EaXIpPC9i-J0DsO6H6Eu40P_xIqI 
+28.3.2021, 22:51:18 - DEBUG - Session ID is | 2U73EaXIpPC9i-J0DsO6H6Eu40P_xIqI 
+28.3.2021, 22:55:12 - DEBUG - Session ID is | 2U73EaXIpPC9i-J0DsO6H6Eu40P_xIqI 
+28.3.2021, 22:55:12 - DEBUG - Session ID is | 2U73EaXIpPC9i-J0DsO6H6Eu40P_xIqI 
+28.3.2021, 22:55:19 - DEBUG - Session ID is | 2U73EaXIpPC9i-J0DsO6H6Eu40P_xIqI 
+28.3.2021, 22:55:33 - DEBUG - Session ID is | 2U73EaXIpPC9i-J0DsO6H6Eu40P_xIqI 
+28.3.2021, 22:55:33 - DEBUG - Session ID is | 2U73EaXIpPC9i-J0DsO6H6Eu40P_xIqI 
+28.3.2021, 22:55:43 - DEBUG - Session ID is | 2U73EaXIpPC9i-J0DsO6H6Eu40P_xIqI 
+28.3.2021, 22:55:43 - DEBUG - Session ID is | 2U73EaXIpPC9i-J0DsO6H6Eu40P_xIqI 
+28.3.2021, 22:58:08 - DEBUG - Session ID is | 2U73EaXIpPC9i-J0DsO6H6Eu40P_xIqI 
+28.3.2021, 22:58:09 - DEBUG - Session ID is | 2U73EaXIpPC9i-J0DsO6H6Eu40P_xIqI 
+28.3.2021, 23:07:48 - INFO - Server is running on port: 3030 
+28.3.2021, 23:07:56 - DEBUG - Session ID is | ViZLouBbtaH43_fdpX8TGbiX808CKMwy 
+28.3.2021, 23:08:00 - INFO - Server is running on port: 3030 
+28.3.2021, 23:08:51 - INFO - Server is running on port: 3030 
+28.3.2021, 23:09:43 - INFO - Server is running on port: 3030 
+28.3.2021, 23:22:32 - ERROR - Failed to add tour | {} (sid: XmkZ2o_ylSktqldX8uGpEx-QW4tZb18l)
+28.3.2021, 23:30:58 - ERROR - Failed to add tour | {} (sid: XmkZ2o_ylSktqldX8uGpEx-QW4tZb18l)
+28.3.2021, 23:32:57 - DEBUG - auth.service - login with username: yoni (sid: 8BGuOtPxRGLSH-p_2oxKu-kK2jBGvkAb)
+28.3.2021, 23:39:39 - DEBUG - Session ID is | 8BGuOtPxRGLSH-p_2oxKu-kK2jBGvkAb 
+28.3.2021, 23:42:23 - INFO - Server is running on port: 3030 
+28.3.2021, 23:43:42 - DEBUG - Session ID is | ZB2L7MITqZ3W6w345qCqrHbbFztRr0te 
+28.3.2021, 23:43:42 - DEBUG - Session ID is | ZB2L7MITqZ3W6w345qCqrHbbFztRr0te 
+28.3.2021, 23:50:03 - INFO - Server is running on port: 3030 
+28.3.2021, 23:53:22 - DEBUG - Session ID is | QyHX-zQNouEHREEHbtcIh9cnRaGyZZbz 
+28.3.2021, 23:53:53 - DEBUG - Session ID is | PabD_9P6ujk99XGSBWh7Yw3pCRzPgoRr 
+28.3.2021, 23:56:43 - DEBUG - auth.service - login with username: yoni (sid: PabD_9P6ujk99XGSBWh7Yw3pCRzPgoRr)
+28.3.2021, 23:57:55 - DEBUG - Session ID is | PabD_9P6ujk99XGSBWh7Yw3pCRzPgoRr 
+29.3.2021, 11:47:06 - DEBUG - auth.service - login with username: yoni (sid: hPb-MRrdBchsxk-JocKXGoI9o-H9mD2Y)
+29.3.2021, 11:47:07 - ERROR - Failed to Login Invalid username or password (sid: hPb-MRrdBchsxk-JocKXGoI9o-H9mD2Y)
+29.3.2021, 11:47:16 - DEBUG - auth.service - login with username: yoni (sid: hPb-MRrdBchsxk-JocKXGoI9o-H9mD2Y)
+29.3.2021, 11:47:32 - DEBUG - auth.service - login with username: ted (sid: hPb-MRrdBchsxk-JocKXGoI9o-H9mD2Y)
+29.3.2021, 11:50:18 - DEBUG - Session ID is | hPb-MRrdBchsxk-JocKXGoI9o-H9mD2Y 
+29.3.2021, 11:59:43 - DEBUG - auth.service - login with username: yoni (sid: k1EaR9cSkf1KVSC_UedXmwN3MBzBHR7B)
+29.3.2021, 12:00:06 - DEBUG - auth.service - login with username: lotan1 (sid: k1EaR9cSkf1KVSC_UedXmwN3MBzBHR7B)
+29.3.2021, 12:00:57 - DEBUG - auth.service - login with username: lotan1 (sid: k1EaR9cSkf1KVSC_UedXmwN3MBzBHR7B)
+29.3.2021, 12:01:42 - DEBUG - Session ID is | k1EaR9cSkf1KVSC_UedXmwN3MBzBHR7B 
+29.3.2021, 12:02:15 - DEBUG - auth.service - login with username: Brooke16 (sid: k1EaR9cSkf1KVSC_UedXmwN3MBzBHR7B)
+29.3.2021, 12:02:43 - DEBUG - Session ID is | k1EaR9cSkf1KVSC_UedXmwN3MBzBHR7B 
+29.3.2021, 12:03:34 - DEBUG - auth.service - login with username: Andre26 (sid: g68lKP5kVv79s9toK-FhFyuTjyPmmQ5f)
+29.3.2021, 12:03:55 - DEBUG - Session ID is | k1EaR9cSkf1KVSC_UedXmwN3MBzBHR7B 
+29.3.2021, 12:08:20 - DEBUG - auth.service - login with username: Esteban26 (sid: fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe)
+29.3.2021, 12:08:20 - ERROR - Failed to Login Invalid username or password (sid: fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe)
+29.3.2021, 12:08:41 - DEBUG - auth.service - login with username: Esteban16 (sid: fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe)
+29.3.2021, 12:08:54 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 12:20:03 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 12:25:06 - DEBUG - auth.service - login with username: avilu (sid: fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe)
+29.3.2021, 13:02:20 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 13:17:47 - DEBUG - auth.service - login with username: Brooke16 (sid: fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe)
+29.3.2021, 13:18:06 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 13:21:21 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 13:32:02 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 13:52:27 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 13:53:55 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 13:54:16 - DEBUG - auth.service - login with username: yoni (sid: fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe)
+29.3.2021, 15:28:26 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 17:04:47 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 17:04:59 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 17:05:51 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 17:05:51 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 17:05:56 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 17:05:56 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 17:05:58 - DEBUG - Session ID is | fGEeYHxCdxa0R1K_haz1qEN8RdPkReNe 
+29.3.2021, 17:06:41 - INFO - Server is running on port: 3030 
+29.3.2021, 17:07:06 - DEBUG - auth.service - login with username: yoni (sid: ukSTBnoUESBpeT4U2PdAnyUKowNvcCZp)
+29.3.2021, 17:07:17 - DEBUG - auth.service - login with username: lotan1 (sid: ukSTBnoUESBpeT4U2PdAnyUKowNvcCZp)
+29.3.2021, 17:07:31 - DEBUG - Session ID is | bb4FP9US3lNNjOr9TyzpggZvrH94BDww 
+29.3.2021, 17:09:44 - INFO - Server is running on port: 3030 
+29.3.2021, 17:10:21 - INFO - Server is running on port: 3030 
+29.3.2021, 17:13:14 - INFO - Server is running on port: 3030 
+29.3.2021, 17:13:53 - INFO - Server is running on port: 3030 
+29.3.2021, 17:15:09 - INFO - Server is running on port: 3030 
+29.3.2021, 17:15:11 - INFO - Server is running on port: 3030 
+29.3.2021, 17:15:18 - DEBUG - Session ID is | ZhVyxFxYJBeHzVtWV7s6UoG5LPU5FXmh 
+29.3.2021, 17:16:03 - DEBUG - auth.service - login with username: Brooke16 (sid: kq11Y7NmbHIDMzfmF3DB2Mh925vSMi1E)
+29.3.2021, 17:22:26 - INFO - Server is running on port: 3030 
+29.3.2021, 17:22:50 - INFO - Server is running on port: 3030 
+29.3.2021, 18:03:11 - ERROR - Failed to add tour | {} (sid: FFs4n2cUwJ40B9mI5blY7O6N4oq3y1K2)
+29.3.2021, 18:03:53 - DEBUG - auth.service - login with username: yoni (sid: 1cnNPLibChhxSzyanKOsHkFhFT97JGgw)
+29.3.2021, 18:06:52 - DEBUG - Session ID is | 1cnNPLibChhxSzyanKOsHkFhFT97JGgw 
+29.3.2021, 18:57:18 - INFO - Server is running on port: 3030 
+29.3.2021, 18:57:24 - INFO - Server is running on port: 3030 
+29.3.2021, 18:57:25 - INFO - Server is running on port: 3030 
+29.3.2021, 19:03:06 - DEBUG - Session ID is | 4G70fIB0KWmJqVsk5f6K5-DWy7O4B_md 
+29.3.2021, 19:03:35 - DEBUG - Session ID is | Bn5FG-eCUm_GXOKTR56nbKD-Wn1O5DLh 
+29.3.2021, 19:07:40 - DEBUG - Session ID is | Bn5FG-eCUm_GXOKTR56nbKD-Wn1O5DLh 
+29.3.2021, 19:19:44 - ERROR - Failed to add tour | {} (sid: Bn5FG-eCUm_GXOKTR56nbKD-Wn1O5DLh)
+29.3.2021, 19:20:15 - DEBUG - auth.service - login with username: lotan1 (sid: 8jDYpFDqRVAyFSylXHnqutwqkFHbJ491)
+29.3.2021, 19:20:42 - DEBUG - Session ID is | Bn5FG-eCUm_GXOKTR56nbKD-Wn1O5DLh 
+29.3.2021, 20:21:52 - DEBUG - Session ID is | 8jDYpFDqRVAyFSylXHnqutwqkFHbJ491 
+29.3.2021, 20:22:02 - DEBUG - Session ID is | 8jDYpFDqRVAyFSylXHnqutwqkFHbJ491 
+29.3.2021, 20:40:19 - DEBUG - Session ID is | 8jDYpFDqRVAyFSylXHnqutwqkFHbJ491 
+29.3.2021, 21:24:34 - DEBUG - auth.service - login with username: ted (sid: 8jDYpFDqRVAyFSylXHnqutwqkFHbJ491)
+29.3.2021, 21:41:14 - INFO - Server is running on port: 3030 
+29.3.2021, 21:41:20 - INFO - Server is running on port: 3030 
+29.3.2021, 21:41:21 - INFO - Server is running on port: 3030 
+30.3.2021, 10:05:30 - INFO - Server is running on port: 3030 
+30.3.2021, 10:05:45 - INFO - Server is running on port: 3030 
+30.3.2021, 10:06:03 - INFO - Server is running on port: 3030 
+30.3.2021, 10:06:36 - INFO - Server is running on port: 3030 
+30.3.2021, 10:07:14 - INFO - Server is running on port: 3030 
+30.3.2021, 10:07:21 - INFO - Server is running on port: 3030 
+30.3.2021, 10:09:30 - INFO - Server is running on port: 3030 
+30.3.2021, 10:09:51 - INFO - Server is running on port: 3030 
+30.3.2021, 10:10:30 - DEBUG - Session ID is | MfJvH6OLIowapptcTeFM7sYUMEVT93gN 
+30.3.2021, 10:10:38 - DEBUG - Session ID is | MfJvH6OLIowapptcTeFM7sYUMEVT93gN 
+30.3.2021, 10:11:30 - INFO - Server is running on port: 3030 
+30.3.2021, 10:11:37 - INFO - Server is running on port: 3030 
+30.3.2021, 10:14:34 - INFO - Server is running on port: 3030 
+30.3.2021, 10:15:10 - INFO - Server is running on port: 3030 
+30.3.2021, 10:16:50 - INFO - Server is running on port: 3030 
+30.3.2021, 10:16:54 - INFO - Server is running on port: 3030 
+30.3.2021, 10:18:09 - INFO - Server is running on port: 3030 
+30.3.2021, 10:18:15 - DEBUG - auth.service - login with username: yoni (sid: 5SWDuO9uYZ1CvaUr7dAONGpBFp2uuv97)
+30.3.2021, 10:18:17 - ERROR - Failed to Login Invalid username or password (sid: 5SWDuO9uYZ1CvaUr7dAONGpBFp2uuv97)
+30.3.2021, 10:18:26 - DEBUG - auth.service - login with username: yoni (sid: 5SWDuO9uYZ1CvaUr7dAONGpBFp2uuv97)
+30.3.2021, 10:19:16 - INFO - Server is running on port: 3030 
+30.3.2021, 10:19:29 - INFO - Server is running on port: 3030 
+30.3.2021, 10:19:42 - INFO - Server is running on port: 3030 
+30.3.2021, 10:19:48 - INFO - Server is running on port: 3030 
+30.3.2021, 10:20:37 - INFO - Server is running on port: 3030 
+30.3.2021, 10:21:04 - INFO - Server is running on port: 3030 
+30.3.2021, 10:21:52 - INFO - Server is running on port: 3030 
+30.3.2021, 10:22:25 - INFO - Server is running on port: 3030 
+30.3.2021, 10:25:44 - INFO - Server is running on port: 3030 
+30.3.2021, 12:32:12 - DEBUG - Session ID is | b2bG3HUowcFXG31KmrWSo9yIJZmb5a_K 
+30.3.2021, 13:06:43 - INFO - Server is running on port: 3030 
+30.3.2021, 13:07:13 - INFO - Server is running on port: 3030 
+30.3.2021, 13:07:19 - INFO - Server is running on port: 3030 
+30.3.2021, 13:14:14 - DEBUG - Session ID is | xB7l6igkO8SA_QcWZYqZ3wXShYJbFlFw 
+30.3.2021, 13:26:07 - DEBUG - Session ID is | HLomCHhdCxQ-y9p31W0G-uVd_bc9mrlz 
+30.3.2021, 13:32:22 - DEBUG - Session ID is | HLomCHhdCxQ-y9p31W0G-uVd_bc9mrlz 
+30.3.2021, 13:33:17 - DEBUG - Session ID is | HLomCHhdCxQ-y9p31W0G-uVd_bc9mrlz 
+30.3.2021, 13:34:42 - DEBUG - Session ID is | HLomCHhdCxQ-y9p31W0G-uVd_bc9mrlz 
+30.3.2021, 13:45:47 - DEBUG - Session ID is | HLomCHhdCxQ-y9p31W0G-uVd_bc9mrlz 
+30.3.2021, 13:46:39 - DEBUG - Session ID is | HLomCHhdCxQ-y9p31W0G-uVd_bc9mrlz 
+30.3.2021, 13:49:51 - DEBUG - Session ID is | HLomCHhdCxQ-y9p31W0G-uVd_bc9mrlz 
+30.3.2021, 13:59:10 - DEBUG - Session ID is | HLomCHhdCxQ-y9p31W0G-uVd_bc9mrlz 
+30.3.2021, 14:05:14 - DEBUG - Session ID is | HLomCHhdCxQ-y9p31W0G-uVd_bc9mrlz 
+30.3.2021, 14:06:29 - DEBUG - Session ID is | HLomCHhdCxQ-y9p31W0G-uVd_bc9mrlz 
+30.3.2021, 14:26:01 - DEBUG - auth.service - login with username: yoni (sid: HLomCHhdCxQ-y9p31W0G-uVd_bc9mrlz)
+30.3.2021, 14:49:18 - DEBUG - auth.service - login with username: yoni (sid: YfFKey2xBtnHoxCS06Uwp6i-gziJYqVw)
+30.3.2021, 14:49:19 - ERROR - Failed to Login Invalid username or password (sid: YfFKey2xBtnHoxCS06Uwp6i-gziJYqVw)
+30.3.2021, 14:49:25 - DEBUG - auth.service - login with username: yoni (sid: YfFKey2xBtnHoxCS06Uwp6i-gziJYqVw)
+30.3.2021, 15:06:50 - DEBUG - auth.service - login with username: yoni (sid: t_TJ1iyec_RZ1zEK1XPdRUYaP6mEJskb)
+30.3.2021, 15:07:04 - DEBUG - auth.service - login with username: lotan1 (sid: t_TJ1iyec_RZ1zEK1XPdRUYaP6mEJskb)
+30.3.2021, 15:07:44 - DEBUG - auth.service - login with username: avi (sid: t_TJ1iyec_RZ1zEK1XPdRUYaP6mEJskb)
+30.3.2021, 15:07:44 - ERROR - Failed to Login Invalid username or password (sid: t_TJ1iyec_RZ1zEK1XPdRUYaP6mEJskb)
+30.3.2021, 15:08:31 - DEBUG - auth.service - login with username: avilu (sid: t_TJ1iyec_RZ1zEK1XPdRUYaP6mEJskb)
+30.3.2021, 15:09:50 - DEBUG - auth.service - login with username: lotan1 (sid: t_TJ1iyec_RZ1zEK1XPdRUYaP6mEJskb)
+30.3.2021, 15:10:02 - DEBUG - Session ID is | YfFKey2xBtnHoxCS06Uwp6i-gziJYqVw 
+30.3.2021, 17:29:00 - INFO - Server is running on port: 3030 
+30.3.2021, 17:31:14 - DEBUG - Session ID is | de5KV3UQ4lathjRDqPmJ91ErdjcLcEV9 
+30.3.2021, 17:43:13 - INFO - Server is running on port: 3030 
+30.3.2021, 17:43:15 - INFO - Server is running on port: 3030 
+30.3.2021, 17:44:01 - DEBUG - Session ID is | RhPI0KUSNkSkJhIeS_DBYvEpmRnuXWTZ 
+30.3.2021, 17:45:21 - INFO - Server is running on port: 3030 
+30.3.2021, 17:46:25 - DEBUG - Session ID is | DKYTQcx8qJPV0pZBewPpt4YlaNsTRrBU 
+30.3.2021, 17:47:09 - DEBUG - auth.service - login with username: lotan1 (sid: RU4YPdPbxevrIL-XLxLjkcyZofnKk4i4)
+30.3.2021, 17:47:19 - DEBUG - auth.service - login with username: yoni (sid: RU4YPdPbxevrIL-XLxLjkcyZofnKk4i4)
+30.3.2021, 17:48:10 - DEBUG - Session ID is | 4Pd0ruJnVCWnhSDvq7jiFe_9hxd53mKk 
+30.3.2021, 18:09:30 - INFO - Server is running on port: 3030 
+30.3.2021, 18:09:58 - DEBUG - Session ID is | wIcJDBoNpaOydUEtRpcx2BZ-4GzXw1lF 
+30.3.2021, 18:10:25 - DEBUG - Session ID is | wIcJDBoNpaOydUEtRpcx2BZ-4GzXw1lF 
+30.3.2021, 18:10:37 - INFO - Server is running on port: 3030 
+30.3.2021, 18:11:24 - DEBUG - Session ID is | jCwq9DJVafyjKCThz52AWWAXs1L7KC9J 
+30.3.2021, 18:12:43 - DEBUG - auth.service - login with username: yoni (sid: KIxcvoriZ85KLkxAWy9VQGh2xONc8A5z)
+30.3.2021, 18:13:36 - DEBUG - auth.service - login with username: lotan1 (sid: eu1WZVlxRSMP4sYz4YSPNaY1GHE228sw)
+30.3.2021, 18:13:49 - DEBUG - Session ID is | sDXNNxPKJT-5kIRBSLI6v1ga4ZpVbRRl 
+30.3.2021, 18:20:09 - DEBUG - Session ID is | eu1WZVlxRSMP4sYz4YSPNaY1GHE228sw 
+30.3.2021, 18:20:32 - DEBUG - Session ID is | eu1WZVlxRSMP4sYz4YSPNaY1GHE228sw 
+30.3.2021, 18:21:11 - DEBUG - Session ID is | eu1WZVlxRSMP4sYz4YSPNaY1GHE228sw 
+30.3.2021, 18:28:08 - DEBUG - auth.service - login with username: yoni (sid: L2oG6FW2GDWbW2FDEmjK-uOhx3TMrohB)
+30.3.2021, 18:28:18 - DEBUG - auth.service - login with username: lotan1 (sid: L2oG6FW2GDWbW2FDEmjK-uOhx3TMrohB)
+30.3.2021, 18:28:40 - DEBUG - Session ID is | L2oG6FW2GDWbW2FDEmjK-uOhx3TMrohB 
+30.3.2021, 18:30:28 - DEBUG - Session ID is | L2oG6FW2GDWbW2FDEmjK-uOhx3TMrohB 
+30.3.2021, 18:30:58 - INFO - Server is running on port: 3030 
+30.3.2021, 18:33:20 - INFO - Server is running on port: 3030 
+30.3.2021, 18:33:45 - INFO - Server is running on port: 3030 
+30.3.2021, 18:34:21 - DEBUG - auth.service - login with username: yoni (sid: NBu3t8J4v2crY1V_Qq3SfYrkFGTP20y0)
+30.3.2021, 18:34:46 - DEBUG - auth.service - login with username: yoni (sid: uYOXWX053UaVFcsSrqT9O59t-IZUkydD)
+30.3.2021, 18:35:24 - DEBUG - auth.service - login with username: lotan1 (sid: 0H-nOrWSRil1bppMZgdtV6L-YOfGkk7G)
+30.3.2021, 18:36:06 - INFO - Server is running on port: 3030 
+30.3.2021, 18:36:37 - DEBUG - auth.service - login with username: yoni (sid: lMQcM-w_kJZevV0JSnrWTafxZVdXyeDV)
+30.3.2021, 18:37:19 - INFO - Server is running on port: 3030 
+30.3.2021, 18:37:38 - INFO - Server is running on port: 3030 
+30.3.2021, 18:38:26 - DEBUG - auth.service - login with username: yoni (sid: ZyX3phl9k6aZLJQjT9PKQtnRV9jz2cpT)
+30.3.2021, 18:39:38 - DEBUG - auth.service - login with username: yoni (sid: ZyX3phl9k6aZLJQjT9PKQtnRV9jz2cpT)
+30.3.2021, 18:39:56 - DEBUG - auth.service - login with username: yoni (sid: S6EZhzVPfQrhpAeLozfDb8QrV9vVntfn)
+30.3.2021, 18:41:23 - DEBUG - auth.service - login with username: lotan1 (sid: S6EZhzVPfQrhpAeLozfDb8QrV9vVntfn)
+30.3.2021, 18:42:01 - DEBUG - Session ID is | fN7m7lkHnTLs6R0LOc391Wn5cmoJjhQa 
+30.3.2021, 18:47:26 - DEBUG - Session ID is | S6EZhzVPfQrhpAeLozfDb8QrV9vVntfn 
+30.3.2021, 18:48:33 - DEBUG - Session ID is | S6EZhzVPfQrhpAeLozfDb8QrV9vVntfn 
+30.3.2021, 18:51:30 - DEBUG - auth.service - login with username: lotan1 (sid: zrvxIkJai8ChdGT4XjKsn9SGy5Op6gQ_)
+30.3.2021, 18:51:49 - DEBUG - auth.service - login with username: yoni (sid: zrvxIkJai8ChdGT4XjKsn9SGy5Op6gQ_)
+30.3.2021, 18:56:23 - DEBUG - auth.service - login with username: lotan1 (sid: YfT9SMtDvR1dOEoTvr9VZU1Jzfzd6zsK)
+30.3.2021, 19:00:14 - DEBUG - auth.service - login with username: lotan1 (sid: k9QGAW0YbfM-uVcjlprUvNhSTEFNp750)
+30.3.2021, 19:00:39 - DEBUG - auth.service - login with username: yoni (sid: k9QGAW0YbfM-uVcjlprUvNhSTEFNp750)
+30.3.2021, 19:01:19 - DEBUG - Session ID is | k9QGAW0YbfM-uVcjlprUvNhSTEFNp750 
+30.3.2021, 19:11:23 - INFO - Server is running on port: 3030 
+30.3.2021, 19:11:52 - DEBUG - Session ID is | Oa3JFCmDrSwkz8nRkS-kJJAK5cm8LOSV 
+30.3.2021, 19:13:42 - DEBUG - auth.service - login with username: lotan1 (sid: YJzw3wK5xANxfZx7Y8iZcgGFmYPWTE1i)
+30.3.2021, 19:14:04 - DEBUG - auth.service - login with username: yoni (sid: kShxOQucTjb5xM_rOES02pqZiZ4isN4h)
+30.3.2021, 19:14:24 - DEBUG - Session ID is | kShxOQucTjb5xM_rOES02pqZiZ4isN4h 
+30.3.2021, 19:17:48 - INFO - Server is running on port: 3030 
+30.3.2021, 19:17:59 - DEBUG - Session ID is | P8Pdr5q5fzmDj_QgHzNk1D5U9w37hgDG 
+30.3.2021, 19:18:11 - DEBUG - Session ID is | ht0KURS4B96H-83h-5p8hDAaMvYH6Yjk 
+30.3.2021, 19:19:39 - DEBUG - auth.service - login with username: Brooke16 (sid: ht0KURS4B96H-83h-5p8hDAaMvYH6Yjk)
+30.3.2021, 19:19:55 - DEBUG - Session ID is | ht0KURS4B96H-83h-5p8hDAaMvYH6Yjk 
+30.3.2021, 20:05:54 - DEBUG - auth.service - login with username: yoni (sid: gtEtbTaMCLjwfkqde_iyOYTCJg4S25IM)
+30.3.2021, 21:16:28 - INFO - Server is running on port: 3030 
+30.3.2021, 22:45:54 - DEBUG - auth.service - login with username: ךםאשמ1 (sid: J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6)
+30.3.2021, 22:45:56 - ERROR - Failed to Login Invalid username or password (sid: J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6)
+30.3.2021, 22:46:14 - DEBUG - auth.service - login with username: lotan1 (sid: J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6)
+30.3.2021, 22:46:29 - DEBUG - Session ID is | 0nkT2ISJJV2rN4jqvgdv4JsfbfMx4eqD 
+31.3.2021, 0:47:39 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 8:18:12 - DEBUG - auth.service - login with username: avilu (sid: J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6)
+31.3.2021, 8:18:21 - DEBUG - auth.service - login with username: lotan1 (sid: J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6)
+31.3.2021, 8:19:40 - DEBUG - auth.service - login with username: yoni (sid: J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6)
+31.3.2021, 8:19:48 - DEBUG - auth.service - login with username: lotan1 (sid: J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6)
+31.3.2021, 8:20:06 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 8:26:58 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 8:34:34 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 8:36:01 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 8:45:31 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 9:39:45 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 9:40:41 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 9:47:08 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 9:47:14 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 9:49:10 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 9:53:07 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 9:54:29 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 10:00:45 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 10:13:30 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 10:15:54 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 10:38:55 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 10:42:19 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 10:42:23 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 10:54:42 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 10:59:25 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 11:57:11 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 11:59:26 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 12:00:48 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 12:00:48 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 12:03:36 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 12:03:36 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 12:03:42 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 12:03:42 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 12:03:55 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 12:06:20 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 12:06:43 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 12:07:00 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 12:07:45 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 12:26:52 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+31.3.2021, 12:27:06 - DEBUG - auth.service - login with username: lotan1 (sid: hTAStmGo-rJE68p1LvOXWKK8hCgpMQpZ)
+31.3.2021, 12:27:19 - DEBUG - auth.service - login with username: yoni (sid: T4f0aG9UzMFhmprqpjar_Fr8j9SITo7g)
+31.3.2021, 12:27:41 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
