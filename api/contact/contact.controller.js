@@ -11,6 +11,18 @@ async function getContacts(req, res) {
     }
 }
 
+
+async function getContactById(req, res) {
+    try {
+
+        const { id } = req.params
+        const contact = await contactService.getById(id)
+        res.send(contact)
+    } catch (err) {
+        console.log(err, 'Error');
+    }
+}
+
 async function deleteContact(req, res) {
     try {
         await contactService.remove(req.params.id);
@@ -40,5 +52,6 @@ module.exports = {
     getContacts,
     deleteContact,
     addContact,
-    updateContact
+    updateContact,
+    getContactById
 };

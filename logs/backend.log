@@ -552,3 +552,72 @@
 31.3.2021, 12:27:06 - DEBUG - auth.service - login with username: lotan1 (sid: hTAStmGo-rJE68p1LvOXWKK8hCgpMQpZ)
 31.3.2021, 12:27:19 - DEBUG - auth.service - login with username: yoni (sid: T4f0aG9UzMFhmprqpjar_Fr8j9SITo7g)
 31.3.2021, 12:27:41 - DEBUG - Session ID is | J_Xwi4Lc1EUWD8SzMYWI9wurhEry32V6 
+4/12/2021, 7:47:17 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:48:31 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:48:46 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:49:00 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:49:34 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:49:45 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:49:55 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:51:21 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:51:47 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:52:09 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:52:26 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:52:34 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:53:56 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:53:59 PM - ERROR - Cannot get contacts | {} (sid: tAqZYtIVN7fRFK1kK1vxicmFtpbQ4c6r)
+4/12/2021, 7:54:17 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:54:23 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:54:25 PM - ERROR - Cannot get contacts | {} (sid: R-DRtN49TWjaGxzygU0Lsl3pk5HeB88y)
+4/12/2021, 7:54:30 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:54:33 PM - INFO - Server is running on port: 3030 
+4/12/2021, 7:58:56 PM - INFO - Server is running on port: 3030 
+4/12/2021, 8:02:50 PM - INFO - Server is running on port: 3030 
+4/13/2021, 12:32:22 PM - INFO - Server is running on port: 3030 
+4/13/2021, 12:32:25 PM - ERROR - Cannot get contacts | {} (sid: 9wn5rtMDYEyRG-Q8v-kQE1INNTVzQrsF)
+4/13/2021, 12:35:30 PM - ERROR - Cannot get contacts | {} (sid: 9wn5rtMDYEyRG-Q8v-kQE1INNTVzQrsF)
+4/13/2021, 12:35:43 PM - INFO - Server is running on port: 3030 
+4/13/2021, 12:36:02 PM - INFO - Server is running on port: 3030 
+4/13/2021, 12:38:07 PM - INFO - Server is running on port: 3030 
+4/13/2021, 12:38:14 PM - INFO - Server is running on port: 3030 
+4/13/2021, 12:38:42 PM - INFO - Server is running on port: 3030 
+4/13/2021, 1:21:42 PM - INFO - Server is running on port: 3030 
+4/13/2021, 1:21:51 PM - INFO - Server is running on port: 3030 
+4/13/2021, 1:21:56 PM - ERROR - Cannot get contacts | {} (sid: RTH5MRl8oljFswinoHmYUyZpYyT2xBGg)
+4/13/2021, 1:23:38 PM - INFO - Server is running on port: 3030 
+4/13/2021, 1:24:31 PM - INFO - Server is running on port: 3030 
+4/13/2021, 1:26:11 PM - INFO - Server is running on port: 3030 
+4/13/2021, 1:26:43 PM - INFO - Server is running on port: 3030 
+4/13/2021, 1:47:01 PM - INFO - Server is running on port: 3030 
+4/13/2021, 6:42:39 PM - INFO - Server is running on port: 3030 
+4/13/2021, 6:54:07 PM - INFO - Server is running on port: 3030 
+4/13/2021, 6:54:25 PM - INFO - Server is running on port: 3030 
+4/13/2021, 6:54:43 PM - INFO - Server is running on port: 3030 
+4/13/2021, 6:55:12 PM - INFO - Server is running on port: 3030 
+4/13/2021, 6:55:22 PM - INFO - Server is running on port: 3030 
+4/13/2021, 6:55:23 PM - INFO - Server is running on port: 3030 
+4/13/2021, 6:55:24 PM - INFO - Server is running on port: 3030 
+4/13/2021, 6:55:37 PM - INFO - Server is running on port: 3030 
+4/13/2021, 6:55:42 PM - INFO - Server is running on port: 3030 
+4/13/2021, 6:56:43 PM - INFO - Server is running on port: 3030 
+4/13/2021, 6:57:35 PM - INFO - Server is running on port: 3030 
+4/13/2021, 6:58:32 PM - INFO - Server is running on port: 3030 
+4/13/2021, 7:11:26 PM - INFO - Server is running on port: 3030 
+4/13/2021, 7:11:42 PM - INFO - Server is running on port: 3030 
+4/13/2021, 7:12:22 PM - INFO - Server is running on port: 3030 
+4/13/2021, 7:12:28 PM - INFO - Server is running on port: 3030 
+4/13/2021, 7:12:32 PM - ERROR - Failed to delete contact | {} (sid: 7sa5rcLx98zMliAz55_fHUvk7nHD5YwI)
+4/13/2021, 7:12:41 PM - ERROR - Failed to delete contact | {} (sid: 7sa5rcLx98zMliAz55_fHUvk7nHD5YwI)
+4/13/2021, 7:12:57 PM - ERROR - Failed to delete contact | {} (sid: 7sa5rcLx98zMliAz55_fHUvk7nHD5YwI)
+4/13/2021, 7:13:34 PM - INFO - Server is running on port: 3030 
+4/13/2021, 7:13:36 PM - ERROR - Failed to delete contact | {} (sid: m5xfhvv6m9z3PC5oWgs-FDZ4J9G1U-B4)
+4/13/2021, 7:13:46 PM - INFO - Server is running on port: 3030 
+4/13/2021, 7:13:55 PM - INFO - Server is running on port: 3030 
+4/13/2021, 7:14:15 PM - INFO - Server is running on port: 3030 
+4/13/2021, 7:27:11 PM - INFO - Server is running on port: 3030 
+4/13/2021, 7:27:29 PM - INFO - Server is running on port: 3030 
+4/13/2021, 7:27:50 PM - INFO - Server is running on port: 3030 
+4/13/2021, 7:28:36 PM - INFO - Server is running on port: 3030 
+4/13/2021, 7:28:39 PM - INFO - Server is running on port: 3030 
+4/19/2021, 1:43:49 PM - INFO - Server is running on port: 3030 
+4/26/2021, 2:16:08 PM - INFO - Server is running on port: 3030 

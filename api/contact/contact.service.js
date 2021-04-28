@@ -6,12 +6,25 @@ async function query() {
     try {
         const collection = await dbService.getCollection('contact');
         const contacts = await collection.find({}).toArray();
+        // const contacts = await collection.find({})
         return contacts;
     } catch (err) {
         logger.error('cannot find contacts', err);
         throw err;
     }
 }
+
+async function getById(id) {
+    try {
+        const collection = await dbService.getCollection('contact');
+        const contact = await collection.findOne({ _id: ObjectId(id) });
+        console.log(contact, 'Contact');
+        return contact
+    } catch (err) {
+        console.log(err, 'ERR');
+    }
+}
+
 async function update(contact) {
     try {
         contact._id = ObjectId(contact._id);
@@ -24,10 +37,7 @@ async function update(contact) {
 }
 async function remove(contactId) {
     try {
-        const store = asyncLocalStorage.getStore();
-        const { contactId } = store;
-        console.log(contactId);
-        const collection = await dbService.getCollection('contact'); s
+        const collection = await dbService.getCollection('contact');
         const query = { _id: ObjectId(contactId) };
         await collection.deleteOne(query);
     } catch (err) {
@@ -38,18 +48,7 @@ async function remove(contactId) {
 
 async function add(contact) {
     try {
-        // const contactToAdd = {
-        //     buyer: contact.buyer,
-        //     createdAt: contact.createdAt,
-        //     guestsCount: contact.guestsCount,
-        //     requests: contact.requests,
-        //     status: contact.status,
-        //     totalPrice: contact.totalPrice,
-        //     tour: contact.tour,
-        // };
         const collection = await dbService.getCollection('contact');
-        // await collection.insertOne(contactToAdd);
-        // return contactToAdd;
         await collection.insertOne(contact);
         return contact;
     } catch (err) {
@@ -62,5 +61,6 @@ module.exports = {
     query,
     remove,
     add,
-    update
+    update,
+    getById
 };
