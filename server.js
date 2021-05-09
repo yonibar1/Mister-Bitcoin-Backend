@@ -27,8 +27,11 @@ if (process.env.NODE_ENV === 'production') {
             'http://127.0.0.1:8080',
             'http://localhost:3030',
             'http://127.0.0.1:3030',
+            'http://localhost:3031',
+            'http://127.0.0.1:3031',
             'http://localhost:3000',
             'http://127.0.0.1:3000',
+
         ],
         credentials: true,
     };
